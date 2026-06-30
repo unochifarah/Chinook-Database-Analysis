@@ -68,6 +68,6 @@ The store's strongest market is the USA, with Rock music in MPEG format being th
 
 ## Dataset
 
-**Source:** [Chinook Database](https://www.kaggle.com/datasets/ranasabrii/chinook) via Kaggle
-**Tables:** 11 relational tables
-**Fields:** Artists, albums, tracks, media types, genres, invoices, invoice lines, customers
+**Source:** [AdventureWorks-2014]([https://www.kaggle.com/datasets/ranasabrii/chinook](https://www.kaggle.com/datasets/duckduckboot/adventureworks-2014)) via Kaggle
+**Tables:** 3 relational tables
+**Fields:** Sales Order, Customer Master, Vendor Master
